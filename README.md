@@ -1,4 +1,4 @@
-# Environmental_sound_classification
+# Environmental_sound_classification (To be updaed)
 
 This repo contains the source code for the end-to-end model based on 
 a 1-D convolutional neural network for environmental sound classification [1].
